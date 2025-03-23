@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-on-Covid-19-in-India
+# Exploratory Data Analysis on Covid-19 in India
 
 India COVID-19 Analysis with PySpark
 This project analyzes COVID-19 data from India using PySpark and visualizes the results using Plotly. The dataset contains various COVID-19 statistics for different states/UTs in India, including total cases, active cases, discharged cases, deaths, and more. The project includes data preprocessing, aggregation, and visualization of key statistics.
